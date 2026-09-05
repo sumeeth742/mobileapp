@@ -1,0 +1,22 @@
+# Flutter/Dart generated files
+.dart_tool/
+.packages
+.pub/
+build/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Platform build outputs
+android/.gradle/
+android/local.properties
+android/key.properties
+
+# Python backend generated files
+backend/.venv/
+backend/.env
+backend/__pycache__/
+backend/**/__pycache__/
+*.py[cod]
